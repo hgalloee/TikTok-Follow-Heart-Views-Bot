@@ -149,8 +149,7 @@ def loop6():
 
 print("Author: https://github.com/NoNameoN-A")
 
-vidUrl = "https://www.tiktok.com/@github_nonameon/video/6898692248968400130" #Change it
-
+vidUrl = https://www.tiktok.com/@pacman4231/video/6980291547652820229?lang=de-DE&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6886980611420997125
 bot = int(input("What do you want to do?\n1 - Auto views(500)\n2 - Auto hearts\n3 - Auto (FIRST) comments heart\n4 - Auto followers\n5 - [NEW]Auto Share\n6 - Simple reload\n"))
 i = 0
 
@@ -158,7 +157,7 @@ chrome_options = webdriver.ChromeOptions()
 #chrome_options.add_argument('--headless')
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
-driver = webdriver.Chrome(executable_path=r'/home/nonameon/Scaricati/TikTok-Follow-Heart-Views-Bot-main/chromedriver',chrome_options=chrome_options) #Change it
+driver = .exe.Chrome(executable_path=r'/home/nonameon/Scaricati/TikTok-Follow-Heart-Views-Bot-main/chromedriver',chrome_options=chrome_options) #Change it
 
 driver.get("https://vipto.de/")
 
